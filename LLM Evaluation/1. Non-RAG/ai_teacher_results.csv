@@ -1,0 +1,52 @@
+﻿User Query,Teacher Response,GeneratedAnswer
+What is AI?,"AI (Artificial Intelligence) is the ability of computers to perform tasks that normally require human intelligence, such as learning, reasoning, recognizing patterns, and making decisions.",AI stands for Artificial Intelligence. It's a way to create machines that can think and learn like humans. AI helps computers understand and make decisions without being programmed.
+How does AI differ from traditional programming?,Traditional programs follow fixed rules written by humans. AI systems can learn patterns from data and use those patterns to make predictions or decisions.,"Explain the concept simply:
+Traditional programming involves writing codes that directly tell computers what to do. 
+AI, on the other hand, enables computers to learn and make decisions on their own. 
+It uses algorithms that mimic human intelligence to solve problems."
+What is Machine Learning?,Machine Learning is a branch of AI where computers learn patterns from data and use those patterns to make predictions or decisions without being explicitly programmed for every case.,"Machine Learning is a way for computers to learn from data without being explicitly programmed. 
+It's a type of artificial intelligence that helps computers make decisions or predictions based on what they've learned from data. 
+The computer gets better at its task by analyzing and adjusting its own performance over time."
+What is Deep Learning?,Deep Learning is a type of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.,"Deep learning is a type of artificial intelligence that uses many layers of neural networks to analyze and learn from data. It's inspired by the way our brains process information, with multiple layers of connections that help us understand and recognize patterns. By mimicking this brain-like structure, deep learning can help machines learn and improve on their own."
+"What is the difference between AI, ML, and Deep Learning?",AI is the broad field of making machines intelligent. ML is a way to achieve AI by learning from data. Deep Learning is a type of ML that uses multi-layer neural networks.,"Here's a simple explanation:
+
+AI (Artificial Intelligence) is like a robot that can think and learn, but it needs a lot of programming and data to do so.
+ML (Machine Learning) is a part of AI where the robot learns from data without being programmed, it can make predictions and decisions on its own.
+Deep Learning is a type of ML that uses many layers of neural networks to learn complex patterns in data, making it very good at recognizing images and speech."
+What is training data?,Training data is the data used to teach a Machine Learning model. The model studies patterns in this data so it can make predictions on new data.,"Training data is a set of examples or instances that a computer model or algorithm is trained on to learn and improve its performance. 
+This data helps the model understand the patterns and relationships between different variables. 
+By analyzing this data, the model can make predictions or decisions on new, unseen data."
+What is a Machine Learning model?,A Machine Learning model is a mathematical system that learns patterns from data and uses those learned patterns to produce predictions or decisions.,"A Machine Learning model is a computer program that can learn and improve on its own by looking at data and experiences.
+It's like a student who learns and gets better with each new lesson and practice.
+The model uses this information to make predictions, classify things, or make decisions on its own."
+What is supervised learning?,"Supervised learning trains a model using examples that already have known answers, such as customer information paired with whether the customer left the company.","Supervised learning is a type of machine learning where a computer learns from labeled data. 
+The computer uses this labeled data to learn patterns and make predictions on new, unseen data. 
+The computer is told what the correct answer is, so it can learn from it."
+What is unsupervised learning?,"Unsupervised learning works with data that does not have predefined answers. The model tries to discover patterns, groups, or structures in the data.","Unsupervised learning is a type of machine learning where the computer learns from data without any labeled or directed feedback. 
+It's like teaching a child to recognize shapes and colors without showing them what the correct answers are. 
+The computer discovers patterns and relationships on its own."
+What is reinforcement learning?,Reinforcement learning teaches an agent through rewards and penalties. The agent learns which actions produce better results over time.,Reinforcement learning is a type of machine learning where a computer learns by interacting with an environment and receiving feedback in the form of rewards or penalties. The goal is to make decisions that maximize the rewards and minimize the penalties. It's like learning to play a game by trial and error.
+What is an LLM?,"An LLM, or Large Language Model, is an AI model trained on large amounts of text to understand and generate human-like language.","An LLM (Large Language Model) is a computer program that can understand and generate human-like language. 
+It's trained on huge amounts of text data to learn patterns and relationships in language. 
+LLMs can answer questions, generate text, and even have conversations like humans."
+What is Generative AI?,"Generative AI is AI that can create new content such as text, images, audio, video, or code based on patterns learned during training.","Generative AI is a type of artificial intelligence that creates new, original content, like text, images, or music, based on patterns and examples it's been trained on.
+
+It can generate new ideas, words, or images that are similar but not exactly the same as the training data.
+
+Think of it like a super-smart copywriter that writes new articles, or a painter that creates new artwork based on what it's seen before."
+What is a prompt?,"A prompt is the instruction or input given to an AI model to tell it what you want it to do, such as explain a concept, write code, or summarize text.","A prompt is a question, sentence, or text that helps a computer, like me, understand what you want to talk about or get an answer to.
+It's like asking a friend to help you with something, giving them a clear idea of what you need.
+A good prompt makes it easier for me to give you the best possible response."
+What is Prompt Engineering?,Prompt Engineering is the practice of designing clear and effective instructions so an AI model produces more useful and reliable responses.,"Prompt Engineering is the process of designing and optimizing text prompts that interact with AI models, such as language models or chatbots. It involves crafting clear, concise, and informative input that elicits the desired output from the AI. By carefully crafting prompts, you can improve the accuracy and relevance of the AI's responses."
+What is RAG?,RAG stands for Retrieval-Augmented Generation. It retrieves relevant information from external data sources and provides that information to an LLM before generating an answer.,"RAG stands for ""Resident Advisory Group"". It's a group of people who help a university or college make decisions about their policies, programs, and services. They often include students, faculty, and staff who have a strong connection to the institution."
+Why is RAG useful?,"RAG is useful when an AI application needs to answer questions using specific or changing information, such as company documents, policies, or knowledge bases.","RAG stands for Reduce, Add, Grow. 
+It's a simple strategy to achieve goals. 
+It helps you plan, reduce bad habits, and grow good ones."
+What is a vector database?,A vector database stores numerical representations called embeddings and allows applications to search for information based on semantic similarity.,"A vector database is a type of database that stores data in a way that allows for efficient similarity searches between data points. 
+It uses mathematical concepts like vectors to represent and compare data. 
+This makes it ideal for applications like search, recommendation, and image retrieval."
+What are embeddings?,"Embeddings are numerical representations of text, images, or other data. Similar meanings tend to have similar vector representations, which makes semantic search possible.","Embeddings are a way to represent words or objects in a computer as a numerical value, called a vector. This vector is used to capture the meaning of the word or object, like its size, shape, or location. It's like a special set of numbers that describe the word or object in a compact way."
+What is an AI Agent?,"An AI Agent is a system that can understand a goal, decide what actions are needed, use tools when necessary, and work through multiple steps to complete a task.","An AI Agent is a computer program that can make decisions and take actions based on its own abilities and knowledge. It acts like a smart, autonomous being that can interact with its environment and respond to its surroundings. The agent's goal is to achieve a specific objective or goal, such as solving a puzzle or playing a game."
+How can AI be used in education?,"AI can support education by explaining concepts, generating practice questions, adapting lessons to student levels, providing feedback, and helping students learn at their own pace.","AI can be used in education to create personalized learning experiences for students. It can help teachers analyze student data to identify areas where students need extra support, and also provide real-time feedback on assignments and quizzes.
+
+AI-powered tools can also automate grading, freeing up teachers' time to focus on more hands-on activities. Additionally, AI can help teachers create interactive and engaging lessons, making learning more fun and effective."

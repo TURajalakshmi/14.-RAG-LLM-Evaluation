@@ -1,0 +1,16 @@
+﻿Metric,Average Score
+AnswerCorrectness,0.58
+AnswerRelevancy,0.933
+Helpfulness,0.705
+AnswerQuality,0.739
+BERT,0.925
+ROUGE-1,0.507
+ROUGE-2,0.324
+ROUGE-L,0.473
+METEOR,0.472
+Context Precision,0.993
+Context Recall,0.975
+Faithfulness,0.883
+RAG Answer Relevancy,0.904
+RAG GEval,0.3
+RAG Evaluation Score,0.775

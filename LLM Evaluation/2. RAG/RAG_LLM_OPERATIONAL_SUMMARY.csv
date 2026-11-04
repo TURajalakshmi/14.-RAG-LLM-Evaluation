@@ -1,0 +1,10 @@
+﻿Metric,Average,Total
+RetrievalLatency,0.08394028500015338,1.6788057000030676
+GenerationLatency,12.959389724999891,259.18779449999784
+Latency,13.043683865000002,260.87367730000005
+InputTokens,529.5,10590.0
+OutputTokens,35.6,712.0
+TotalTokens,565.1,11302.0
+InputCost,0.0,0.0
+OutputCost,0.0,0.0
+TotalCost,0.0,0.0
